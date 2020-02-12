@@ -11,8 +11,5 @@
     "react-native"
   ],
   "author": "David Chang",
-  "license": "MIT",
-  "dependencies": {
-    "babel-plugin-dotenv": "0.1.1"
-  }
+  "license": "MIT"
 }
